@@ -11,21 +11,6 @@ Uma API REST para gerenciamento de pedidos em um restaurante, desenvolvida com T
 - 🗃️ **SQLite**: Banco de dados leve e eficiente.
 - 🔍 **Insomnia**: Ferramenta para testar e documentar as requisições da API.
 
-## 📂 Estrutura do Projeto
-
-```
-📦 api-restaurante
-├── 📁 node_modules
-├── 📁 src
-│   ├── 📁 controllers
-│   ├── 📁 models
-│   ├── 📁 routes
-│   └── 📄 server.ts
-├── 📄 knexfile.ts
-├── 📄 package.json
-└── 📄 tsconfig.json
-```
-
 ## 📊 Rotas da API
 
 ### 🛒 **Pedidos (Orders)**
